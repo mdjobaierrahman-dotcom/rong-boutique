@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mdjobaierrahman-dotcom.github.io/rong-boutique/sitemap.xml
